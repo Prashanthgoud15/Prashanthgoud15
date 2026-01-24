@@ -2,7 +2,7 @@
 
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%" alt="header" style="border-radius: 8px; margin-bottom: 20px;" />
 
-  <h1 style="font-size: 2.5rem; letter-spacing: 2px;">G.Prashanth Goud</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Prashanth Goud </h1>
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Java+%7C+Python+Developer;Full+Stack+Developer;AI+Integration+Enthusiast;B.Tech+%40+GPCET+'27" alt="Typing SVG" />
