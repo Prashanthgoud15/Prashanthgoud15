@@ -107,18 +107,21 @@ I am a **Computer Science student** with strong fundamentals in **Java, Python, 
 
 ### 🚀 Featured Projects
 
-#### **1. Intix – AI Interview Preparation Platform**
+#### **PicknDrop – Peer-to-Peer Vehicle Rental Platform**
+ `React` `Node.js` `MongoDB` `Razorpay`
+>Full-stack rental platform with multi-role workflows for renters, vehicle owners, and admins.Implements a lifecycle-driven booking system with secure payment verification, extension handling, and conflict-safe state management.
+
+
+#### **2. CampusIQ – AI-Powered Academic Platform**
+ `React` `Node.js` `MongoDB` `LLaMA3`
+> Personalized academic platform that filters study content based on student profile (regulation, branch, year, semester).
+> Features an AI tutor delivering structured exam answers and real-time streaming responses with prompt-driven intelligence.
+
+
+#### **3.Intix – AI Interview Preparation Platform**
 `Python` `FastAPI` `React` `MySQL`
-> Full-stack interview assessment platform with real-time computer vision and speech analysis via REST APIs.  
+> Full-stack interview assessment platform with real-time computer vision and speech analysis via REST APIs.
 > Supports resume-based interview customization, session tracking, and automated performance reports with strong validation and error handling.
-
-#### **2. Trippzy – AI Trip Planner**
-`JavaScript` `Supabase`
-> AI-powered trip planning application with authentication, dynamic itinerary generation, and real-time data handling.
-
-#### **3. Rhythmx – Hand Gesture Music App**
-`Computer Vision` `JavaScript`
-> Gesture-controlled music experience using hand tracking to generate beats and rhythms in real time.
 
 
 ---
